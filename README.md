@@ -1,3 +1,3 @@
 # ToDo List
 
-ToDo List built for learning Django.
+That app built for learning Django.
